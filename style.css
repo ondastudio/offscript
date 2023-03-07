@@ -1,0 +1,19 @@
+._1440container.is--explore {
+  pointer-events: none;
+}
+
+.explore-img {
+  pointer-events: none;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.map-link {
+  pointer-events: auto !important;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
